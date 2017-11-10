@@ -12,6 +12,6 @@ emmmmmmmmm
 **加重强调** 或者 __加重强调__ (示例：粗体)  
 ***特别强调*** 或者 ___特别强调___ (示例：粗斜体)
 
-`This is code too
-heheheh
+`This is code too  
+heheheh  
 asfgasfa`
